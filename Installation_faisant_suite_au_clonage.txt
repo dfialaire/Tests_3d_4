@@ -1,0 +1,18 @@
+parmed :
+
+Description
+
+ParmEd is a package designed to facilitate creating and easily manipulating molecular systems
+ that are fully described by a common classical force field. Supported force fields
+ include Amber, CHARMM, AMOEBA, and several others that share a similar functional form (e.g., GROMOS).
+
+conda install -c conda-forge parmed  (https://anaconda.org/conda-forge/parmed)
+
+-----------------------
+rdkit :
+
+RDKit is a collection of cheminformatics and machine-learning software written in C++ and Python.
+
+conda install -c conda-forge rdkit (https://anaconda.org/rdkit/rdkit)
+
+-------------------
